@@ -1,4 +1,4 @@
-# HR-Dashboard-Portfolio
+# Lita-PowerBI-Documentation
 
 ## Project Title: HR Data and Map Analytics in Power BI
 
@@ -6,6 +6,12 @@
 ### Project Overview
 
 This project focuses on analyzing HR data using Power BI to provide insights into employee demographics and geographical distribution. By leveraging Power BI's powerful visualization tools, including map visualizations, this project demonstrates how data can be transformed into actionable insights for decision-makers.
+
+---
+
+### Data Sources
+
+The data for this analysis comes from the **HR data.xlxs** file, which was freely downloaded from **Kaggle.com**.
 
 ---
 
