@@ -17,7 +17,7 @@
 
 [Dashboard](#dashboard).
 
-[Visualizations](#visualizations).
+[Visualization](#visualization).
 
 [Conclusion](#conclusion).
 
@@ -172,6 +172,8 @@ In addition, the salary hike percentage was calculated to be **100%**, indicatin
 ---
 
 ### Visualization
+
+[Screenshot 2024-10-20 182225](https://github.com/user-attachments/assets/0a906432-0d94-4630-9bbc-bac89082137b)
 
 ### Conclusion:
 
