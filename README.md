@@ -173,7 +173,12 @@ In addition, the salary hike percentage was calculated to be **100%**, indicatin
 
 ### Visualization
 
-[Screenshot 2024-10-20 182225](https://github.com/user-attachments/assets/0a906432-0d94-4630-9bbc-bac89082137b)
+[My Calculations](https://github.com/user-attachments/assets/de42bb53-b09b-4da8-b54f-8f2d6e9db54a)
+
+[Dashboard 1](https://github.com/user-attachments/assets/e1768eb1-ed5c-47b2-9de8-8f2e4520e8a1)
+
+[Dashboard 2](https://github.com/user-attachments/assets/8b2e1615-259b-40e7-b3b4-731eed5129a6)
+
 
 ### Conclusion:
 
