@@ -13,15 +13,15 @@
 
 [Exploratory Data Analysis](#exploratory-data-analysis).
 
-[DAX Calculations](dax-calculations).
+[DAX Calculations](#dax-calculations).
 
-[Dashboard](dashboard).
+[Dashboard](#dashboard).
 
-[Visualizations](visualizations).
+[Visualizations](#visualizations).
 
-[Conclusion](conclusion).
+[Conclusion](#conclusion).
 
-[Key Skills Demonstrated](key-skills-demonstrated).
+[Key Skills Demonstrated](#key-skills-demonstrated).
 
 
 ### Project Overview
