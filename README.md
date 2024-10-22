@@ -179,6 +179,8 @@ In addition, the salary hike percentage was calculated to be **100%**, indicatin
 
 [Dashboard 2](https://github.com/user-attachments/assets/8b2e1615-259b-40e7-b3b4-731eed5129a6)
 
+---
+
 
 ### Conclusion:
 
