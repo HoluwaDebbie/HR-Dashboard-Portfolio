@@ -40,9 +40,13 @@ The data for this analysis comes from the **HR data.xlxs** file, which was freel
 
 For this project, I leveraged the following tools:
 1. **Power BI**: Data visualization and dashboard creation.
+   
 2. **DAX (Data Analysis Expressions)**: Performed advanced calculations, including attrition rate, average age by department, and satisfaction scores.
+   
 3. **Excel**: Initial data cleaning and exploration.
-4.**Power Query**: Used for data transformation and ensuring data consistency.
+  
+4. **Power Query**: Used for data transformation and ensuring data consistency.
+
 5. **Github**: Used for portfolio building.
 
 ---
