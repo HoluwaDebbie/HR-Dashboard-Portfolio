@@ -16,7 +16,7 @@
 
 [DAX Calculations](#dax-calculations).
 
-[Dashboard](#dashboard).
+[Key Findings](#key-findings).
 
 [Visualization](#visualization).
 
@@ -86,94 +86,31 @@ In addition, the salary hike percentage was calculated to be **100%**, indicatin
 
 ---
 
-### Dashboard
+### Key Findings
 
-**Dashboard 1: Employee Attrition Overview**
+#### What is Working
 
-**Objective**: Provide a comprehensive view of overall and departmental attrition rates, analyzing how the department, business travel, gender, and job roles contribute to employee turnover.
+- **Employee Retention in Certain Job Roles**: Some job roles, such as Research Directors, have significantly lower attrition rates. This might indicate higher job satisfaction or better alignment with company goals within these roles.
 
- **Visual 1: Attrition by Department**
+- **Salary Increases Across the Board**: All employees have received a salary hike, as indicated by the salary hike percentage calculated at 100%. This is a positive move that can contribute to employee satisfaction and loyalty.
+
+  
+#### What is Not Working
+
+**High Attrition in R&D Department**: The R&D department shows the highest attrition rate, suggesting dissatisfaction or misalignment within this critical area. This high turnover rate could have implications for innovation and productivity.
+
+- **Attrition Among Rarely Traveling Employees**: Employees who rarely travel for business show the highest turnover rates, indicating that travel frequency might be influencing job satisfaction or retention.
+  
+- **Low Satisfaction in Specific Departments**: The R&D department also scores the lowest in employee satisfaction, as shown by the Satisfaction Index. This low satisfaction is likely contributing to the high attrition rate within the department.
+  
+#### What Should Be Focused On
+
+- **Enhancing Job Satisfaction in R&D**: Targeted interventions to improve satisfaction levels in the R&D department could help reduce turnover. This could include addressing workload, providing growth opportunities, and improving work-life balance.
+  
+- **Understanding the Impact of Business Travel**: The correlation between attrition and travel frequency warrants further investigation. Exploring how travel impacts employee experience could help in implementing policies that balance travel demands with employee well-being.
+  
+- **Focusing on Work-Life Balance Across Departments**: The scatter plot analysis shows how work-life balance influences job satisfaction across departments. Emphasizing flexible working conditions and personal time can boost job satisfaction and retention.
  
- - **Type**: Clustered Bar Chart
- 
- - **X-Axis**: Department
- 
- - **Y-Axis**: Count of employees with Attrition = Yes
- 
- - This chart highlights the departments with the highest attrition rates, showing that the R&D department has the highest turnover rate.
-
-**Visual 2: Attrition by Business Travel**
-
-- **Type**: Clustered Column Chart
-
-- **Legend**: Business Travel (Frequently, Rarely, Non-Travelers)
-
-- **Y-Axis**: Count of employees with Attrition = Yes
-
-- It demonstrates that employees who rarely travel for business have significantly higher turnover rates than frequent travelers or non-travelers.
-
-**Visual 3: Attrition by Gender**
-
-- **Type**: Stacked Column Chart
-
-- **X-Axis**: Gender
-
-- **Y-Axis**: Count of employees with Attrition = Yes
-
-- It shows that male employees have a higher attrition rate than female employees, with more male employees leaving the company.
-
-**Visual 4: Attrition by Job Role**
-
-- **Type**: Clustered Column Chart
-
-- **X-Axis**: Job Role
-
-- **Y-Axis**: Count of employees with Attrition = Yes
-
-- This chart reveals that laboratory technicians experience the highest attrition, while research directors have the lowest turnover rate, indicating differences in attrition based on job roles.
-
-**Dashboard 2: Employee Satisfaction & Experience**
-
-**Objective**: Analyze employee satisfaction levels and overall experience across various metrics.
-
-**Visual 1: Satisfaction Index by Department**
-
-- **Type**: Clustered Bar Chart
-
-- **X-Axis**: Department
-
-- **Y-Axis**: Satisfaction Index
-
-- This chart displays employee satisfaction levels by department, highlighting that the R&D department has the lowest satisfaction score.
-
-**Visual 2: Average Age by Department**
-
-- **Type**: Clustered Column Chart
-
-- **X-Axis**: Department
-
-- **Y-Axis**: Average Age
-
-- Shows the average age of employees across different departments, with HR having the highest average age, suggesting that it has the most experienced staff.
-
-**Visual 3: Work-Life Balance vs Job Satisfaction**  
-
-  - **Type**: Scatter Plot
-    
-  - **X-Axis**: Job Satisfaction
-     
-  - **Y-Axis**: Work-Life Balance
-     
-  - **Legend**: Department
-     
-  - This scatter plot illustrates the relationship between work-life balance and job satisfaction, with each point color-coded by department to show how these factors vary across different teams.
-
-**Visual 4: Salary Hike Percentage**  
-
-  - **Type**: Pie Chart
-    
-  - Displays the percentage of employees receiving salary hikes more significantly than 10%. The result shows that 100% of employees received a salary hike, though the extent of the increases varied across the workforce.
-
 ---
 
 ### Visualization
