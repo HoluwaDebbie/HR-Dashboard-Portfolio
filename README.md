@@ -2,6 +2,7 @@
 
 ## Project Title: HR Attrition and Satisfaction Analysis Using Power BI and DAX
 ---
+## Table of Content
 
 [Project Overview](#project-overview).
 
