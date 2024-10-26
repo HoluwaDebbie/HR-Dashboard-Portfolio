@@ -141,4 +141,5 @@ This analysis revealed that the R&D department needs to work on retaining employ
 This project showcases my skills in handling HR data, delivering valuable insights through DAX calculations and creating interactive visualizations that aid decision-making.
 
 ---
+[Class Project.pdf](https://github.com/user-attachments/files/17531456/Class.Project.pdf)
 
