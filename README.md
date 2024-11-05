@@ -1,28 +1,31 @@
 # LITA-PowerBI-Documentation
 
+---
+
 ## Project Title: HR Attrition and Satisfaction Analysis Using Power BI and DAX
 ---
+
 ## Table of Content
 
-[Project Overview](#project-overview).
+- [Project Overview](#project-overview).
 
-[Data Sources](#data-sources).
+- [Data Sources](#data-sources).
 
-[Tools Used](#tools-used).
+- [Tools Used](#tools-used).
 
-[Data Cleaning and Preparations](#data-cleaning-and-preparations).
+- [Data Cleaning and Preparations](#data-cleaning-and-preparations).
 
-[Exploratory Data Analysis](#exploratory-data-analysis).
+- [Exploratory Data Analysis](#exploratory-data-analysis).
 
-[DAX Calculations](#dax-calculations).
+- [DAX Calculations](#dax-calculations).
 
-[Key Findings](#key-findings).
+- [Key Findings](#key-findings).
 
-[Visualization](#visualization).
+- [Visualization](#visualization).
 
-[Conclusion](#conclusion).
+- [Conclusion](#conclusion).
 
-[Key Skills Demonstrated](#key-skills-demonstrated).
+- [Key Skills Demonstrated](#key-skills-demonstrated).
 
 
 ### Project Overview
