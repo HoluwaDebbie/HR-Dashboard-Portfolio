@@ -118,11 +118,11 @@ In addition, the salary hike percentage was calculated to be **100%**, indicatin
 
 ### Visualization
 
-[My Calculations](https://github.com/user-attachments/assets/de42bb53-b09b-4da8-b54f-8f2d6e9db54a)
+![My Calculations](https://github.com/user-attachments/assets/de42bb53-b09b-4da8-b54f-8f2d6e9db54a)
 
-[Dashboard 1](https://github.com/user-attachments/assets/e1768eb1-ed5c-47b2-9de8-8f2e4520e8a1)
+![Dashboard 1](https://github.com/user-attachments/assets/e1768eb1-ed5c-47b2-9de8-8f2e4520e8a1)
 
-[Dashboard 2 updated](https://github.com/user-attachments/assets/b2ef07ac-4a9f-4a50-a2cf-9a986e261453)
+![Dashboard 2 updated](https://github.com/user-attachments/assets/b2ef07ac-4a9f-4a50-a2cf-9a986e261453)
 
 
 ---
@@ -144,5 +144,5 @@ This analysis revealed that the R&D department needs to work on retaining employ
 This project showcases my skills in handling HR data, delivering valuable insights through DAX calculations and creating interactive visualizations that aid decision-making.
 
 ---
-[Class Project.pdf](https://github.com/user-attachments/files/17531456/Class.Project.pdf)
+![Class Project.pdf](https://github.com/user-attachments/files/17531456/Class.Project.pdf)
 
